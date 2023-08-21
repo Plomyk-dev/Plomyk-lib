@@ -1,7 +1,7 @@
 # Plomyk-lib
 Simple fivem lib with functions I use everyday
 
-| Function      | Usage |
+| Function      | Usage | Side |
 | ----------- | ----------- |
 | **Load Model to memory**      | ```exports('plomyk-lib'):loadModel(model)```      |
-| Paragraph   | Text        |
+| **Unload Model from memory**   | ```exports('plomyk-lib'):unloadModel(model)```        |
